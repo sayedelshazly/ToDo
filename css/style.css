@@ -1,0 +1,27 @@
+.body{
+    background-color: black;
+    color: white;
+}
+.card{
+    background-color: #333 !important;
+    color: white;
+}
+.card input{
+    border-radius: 5px;
+}
+.none{
+    display: none;
+}
+.pra{
+    color: black;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    background: linear-gradient(90deg,#000,#fff,#000);
+    background-size: 100%;
+}
+.btn-danger{
+    padding: 4px;
+}
